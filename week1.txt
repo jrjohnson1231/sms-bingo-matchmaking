@@ -1,0 +1,93 @@
+Using seed 696969
+
+ORIGINAL STANDINGS (34 matches)
+Name,Elo
+JJsrl,1680
+Despin,1290
+RSW,1230
+deathline,1155
+peaches,1025
+peaches,1025
+mdmason85,970
+mdmason85,970
+Dex,955
+SidedWilliams,950
+Reed,950
+Reed,950
+Popo,950
+Embouchure,950
+MrYhatoh,945
+MrYhatoh,945
+toburr,930
+gamestabled,765
+gamestabled,765
+Libre,720
+Breadghost,655
+Breadghost,655
+Alaeus,650
+Derpspace,625
+Derpspace,625
+jukatox,555
+schmittd,370
+Dingeman,360
+Dingeman,360
+GoogleCheese,250
+GoogleCheese,250
+DarkMan,200
+Erthide,100
+TanookiMario,55
+
+ADJUSTED STANDINGS (0 retries)
+JJsrl,1557
+Despin,1269
+RSW,1150
+deathline,1135
+SidedWilliams,1044
+peaches,1040
+Dex,1018
+MrYhatoh,1001
+MrYhatoh,999
+Reed,998
+peaches,997
+Popo,979
+mdmason85,935
+Embouchure,900
+mdmason85,887
+Reed,856
+toburr,838
+gamestabled,800
+Breadghost,730
+Derpspace,719
+gamestabled,716
+Alaeus,677
+Libre,633
+Breadghost,586
+Derpspace,525
+jukatox,464
+Dingeman,381
+GoogleCheese,340
+Dingeman,282
+schmittd,278
+TanookiMario,190
+GoogleCheese,154
+DarkMan,123
+Erthide,71
+
+MATCHUPS
+JJsrl vs. Despin
+RSW vs. deathline
+SidedWilliams vs. peaches
+Dex vs. MrYhatoh
+MrYhatoh vs. Reed
+peaches vs. Popo
+mdmason85 vs. Embouchure
+mdmason85 vs. Reed
+toburr vs. gamestabled
+Breadghost vs. Derpspace
+gamestabled vs. Alaeus
+Libre vs. Breadghost
+Derpspace vs. jukatox
+Dingeman vs. GoogleCheese
+Dingeman vs. schmittd
+TanookiMario vs. GoogleCheese
+DarkMan vs. Erthide
